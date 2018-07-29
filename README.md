@@ -1,4 +1,4 @@
-# Simple-MVC-without-a-framework
+Simple-MVC-without-a-framework
 
 PHP + JS(JQUERY + AJAX) + CSS + HTML + RESTful + MySQL -> XAMP/UwAmp + PhpStorm
 
