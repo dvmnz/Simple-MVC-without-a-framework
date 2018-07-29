@@ -8,5 +8,6 @@ I couldn't find a great MVC skeleton without all the functions implemented so I 
 
 The only file that can be confusing is routes.php that instead of having several different routes, it has just one that will get the name of the controller and the name of the action(function), therefore CRUD isn't effective.
 
+P.S - Don't forget to connect to your local database when running, just in case.
 Any questions, send me a message.
 
