@@ -1,6 +1,6 @@
 # Simple-MVC-without-a-framework
 
-PHP + JS(JQUERY + AJAX) + CSS + HTML + RESTful + MySQL + XAMP/UwAmp + PhpStorm
+PHP + JS(JQUERY + AJAX) + CSS + HTML + RESTful + MySQL -> XAMP/UwAmp + PhpStorm
 
 This is a great simple MVC skeleton in PHP that implements all the basic features of web programming. 
 
